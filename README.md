@@ -7,6 +7,8 @@ The goal is to **eliminate repetitive manual work and reduce file creation time 
 
 Simple idea. Powerful impact.
 
+Built during my work at ICON Consultants to improve **internal efficiency.**
+
 ---
 
 ## 🎯 Purpose
